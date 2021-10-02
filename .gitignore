@@ -1,3 +1,6 @@
+# Custom
+.vscode/
+
 # Tags "Linux, macOS, Flask, Python, Django, Windows, PhpStorm, SublimeText, JupyterNotebooks, VisualStudioCode"
 # Created by https://www.gitignore.io/api/linux,macos,flask,python,django,windows,phpstorm,sublimetext,jupyternotebooks,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=linux,macos,flask,python,django,windows,phpstorm,sublimetext,jupyternotebooks,visualstudiocode
